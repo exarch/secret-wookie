@@ -1,0 +1,4 @@
+secret-wookie
+=============
+
+stats daemon
